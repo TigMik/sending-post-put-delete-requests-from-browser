@@ -7,7 +7,7 @@ fetch("/students", {
     },
     body: JSON.stringify({
         name: "andrew"
-    })
+    }) 
 })
 
 
